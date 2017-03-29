@@ -9,7 +9,6 @@ Pretend you've been hired as a junior developer to update a site with an old lay
 #### Requirements
 - Change the layout from float to flex.
 - Remove any unnecessary CSS without jeopardizing the layout.
-- Add media queries to adjust the layout for smaller screens, per the images below.
 - Fix any errors (formatting or otherwise) in the HTML and CSS.
 
 #### Starter code
