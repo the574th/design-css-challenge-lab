@@ -31,20 +31,14 @@ body {
 /* Layout
    ================================================================ */
 #main {
-  float: left;
-  width: 66.66667%;
 }
 
 #sidebar {
-  float: right;
-  width: 29%;
-  margin-top: 108px;
   color: #888;
 }
 
 .wrapper {
-  width: 1080px;
-  margin: 0 auto;
+  
 }
 
 img 
@@ -110,8 +104,7 @@ a:hover {
 
 
 p {
-  margin: 27px 0 0;
-  padding: 0;
+  
 }
 
 
@@ -179,7 +172,6 @@ article {
 article p:first-of-type:first-letter {
   font-size: 108px;
   line-height: 1;
-  float: left;
   margin: -10px 10px 0 -8px
   color: #ddd;
 }
