@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Design Challenge Lab (90 mins)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) CSS Design Challenge Lab (30 mins)
 
 ## Learning Objectives
 - Use flexbox to set up a grid system.
@@ -7,7 +7,7 @@
 Pretend you've been hired as a junior developer to update a site with an old layout built with floats. The HTML can stay exactly the same, but the CSS must be changed to meet the requirements below. Be sure to reference the mockups in the 'Deliverables' section for guidance.
 
 #### Requirements
-- Change the layout from float to flex.
+- Change the layout with flex.
 - Remove any unnecessary CSS without jeopardizing the layout.
 - Fix any errors (formatting or otherwise) in the HTML and CSS.
 
