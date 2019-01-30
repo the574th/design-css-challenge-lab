@@ -1,1 +1,27 @@
+a {
+	color: #F4C465;
+}
 
+header li {
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	text-align: center;
+	vertical-align: center;
+	background-color: grey;
+}
+
+#main {
+	display: flex;
+	flex: 1;
+}
+
+#main > .article {
+	flex-direction: row;
+	flex: 1;
+	order: 1;
+	margin: 10px;}
+
+#main > aside {
+	order: 2;
+}
